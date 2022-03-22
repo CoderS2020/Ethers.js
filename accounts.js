@@ -1,7 +1,7 @@
 const { ethers } = require('ethers');
 
 const provider = new ethers.providers.JsonRpcProvider(
-  `https://mainnet.infura.io/v3/366bc4f47d854ca89cee8a969faf0c65`
+  `https://mainnet.infura.io/v3/...`
 );
 
 const main = async () => {
